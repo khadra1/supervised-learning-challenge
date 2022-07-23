@@ -38,7 +38,7 @@ Knowing all this beforehand I predicted the Logistic Regression would do best wi
 
 ## Conclusion
 
-Unexpectedly both models performed really well before and after scaling the data and there weren't great difference in between the two models or on the scaled vs unscaled data. There doesnt seem to be any overfitting either, test and training scores are very similar. My first impression after seeing this result I thought something went wrong as I'm not very experienced with Machine Learning but after looking into it further and creating a confusion matrix from both models test data I think both models performed well on this particular dataset loking at the accuracy scores but further training of data and different models could bring more clarity on this.
+Unexpectedly both models performed really well there was little difference in between the two models, on both scaled vs unscaled data.  The test and training scores are very similar. My first impression after seeing this result I thought something went wrong as I'm not very experienced with Machine Learning but after looking into it further and creating a confusion matrix from both models test data I think both models performed well on this particular dataset loking at the accuracy scores but further testing and training of data and different models could bring more clarity on this.
 
 ![Screenshot 2022-07-23 at 22 51 32](https://user-images.githubusercontent.com/67019030/180623978-e27e6bcf-438d-4569-98cc-0537bb887c71.png)
 
